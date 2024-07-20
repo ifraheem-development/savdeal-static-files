@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",()=>{var t=document.createElement("script");t.src="https://cdn.tiny.cloud/1/lgwjl440004fnu825efwsp831nf4r46px2ozzthc9k0r7osu/tinymce/7/tinymce.min.js",t.type="text/javascript",document.head.appendChild(t)});
